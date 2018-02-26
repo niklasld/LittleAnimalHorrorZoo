@@ -6,7 +6,7 @@ public class Game {
       Animal snake = new Animal("snake", true);
       // Create snake object in Animal
       Animal rabbit = new Animal("rabbit", false);
-
+      //dette er en test
       snake.setPos(9,9);
       rabbit.setPos(1,1);
       
